@@ -1,0 +1,20 @@
+body{
+    background-size: cover;
+}
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status, #number_of_objects, #start_model
+{
+font-size: 23px;
+color: darkorange;
+}
+canvas{
+    box-shadow: 10px 10px 10px crimson;
+    border-radius:25px ;
+    margin-top: 50px;
+}
